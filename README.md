@@ -15,6 +15,7 @@ A example of ebitengine
 ![blue flower](docs/images/blue_flower.png)
 
 有了編號後我們就可以得知藍色花在地圖集中的第 4 個 column(index=303%25=3)及第13個 row(index=303/25=12)
+
 最後我們就可以把編號應用在我們想要呈現的結果
 ```go
 var (
